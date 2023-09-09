@@ -100,36 +100,20 @@ class GFG {
 
 class Solution {
     // Function to insert a node in a BST.
-    void inorder(Node root,ArrayList<Integer> arr){
-        if(root == null){
-            return;
-        }
-        inorder(root.left,arr);
-        arr.add(root.data);
-        inorder(root.right,arr);
-    }
-    Node buildBST(ArrayList<Integer> arr,int s, int e){
-        if(s>e){
-            return null;
-        }
-        int mid=(s+e)/2;
-        Node root = new Node(arr.get(mid));
-        root.left = buildBST(arr,s,mid-1);
-        root.right = buildBST(arr,mid+1,e);
-        return root;
-    }
+    
     Node insert(Node root, int Key) {
         // your code here
-        ArrayList<Integer> arr = new ArrayList<>();
-        inorder(root, arr);
-        if(!arr.contains(Key)){
-            arr.add(Key);
-            Collections.sort(arr);
+        if(root== null){
+            return new Node(Key);
         }
-        int s=0;
-        int e=arr.size()-1;
-        Node node = buildBST(arr,s,e);
-        return node;
-        
+        if(root.data==Key){
+            return root;
+        }
+        if(root.data<Key){
+            root.right = insert(root.right,Key);
+        }else{
+            root.left = insert(root.left,Key);
+        }
+        return root;
     }
 }
