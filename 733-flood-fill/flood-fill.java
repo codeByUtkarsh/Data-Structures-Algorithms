@@ -8,16 +8,16 @@ class Solution {
         vis[sr][sc]=true;
         
         //left
-        helper(image,sr-1,sc,color,vis,orgCol);
-
-        //right
-        helper(image,sr+1,sc,color,vis,orgCol);
-
-        //up
         helper(image,sr,sc-1,color,vis,orgCol);
 
         //right
         helper(image,sr,sc+1,color,vis,orgCol);
+
+        //up
+        helper(image,sr-1,sc,color,vis,orgCol);
+
+        //right
+        helper(image,sr+1,sc,color,vis,orgCol);
 
     }
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
