@@ -1,10 +1,10 @@
 class Solution {
     public void calComSum(int i,int[] cand, int target,List<List<Integer>> ans, List<Integer> temp,int n){
-         if(target==0){
+         if(i==n && target==0){
             ans.add(new ArrayList<>(temp));
             return;
          }
-         if(i==n && target>0){
+         if(i==n){
             return;
          }
 
