@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0801-is-graph-bipartite) |
 ## Stack
 |  |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0214-shortest-palindrome) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
