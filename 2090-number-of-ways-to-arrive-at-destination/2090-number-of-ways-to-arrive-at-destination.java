@@ -35,6 +35,7 @@ class Solution {
             Pair curr = q.poll();
             long upDis = curr.first;
             int upNode = curr.second;
+            if (upDis > dist[upNode]) continue;
             for(Pair it:adj.get(upNode)){
                 long currDis = it.first;
                 int currNode = it.second;
