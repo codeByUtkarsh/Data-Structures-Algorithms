@@ -10,7 +10,7 @@ class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
         int src =k;
         List<List<Pair>> adj = new ArrayList<>();
-        Queue<Pair> q = new LinkedList<>();
+        PriorityQueue<Pair> q = new PriorityQueue<>((x,y)-> x.first-y.first);
         for(int i=0;i<=n;i++){
             adj.add(new ArrayList<>());
         }
