@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Stack
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,4 +111,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
