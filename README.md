@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Depth-First Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
