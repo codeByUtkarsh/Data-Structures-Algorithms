@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -49,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
+| [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
