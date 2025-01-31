@@ -46,12 +46,10 @@ class Solution {
                 }
             }
         }
-
         List<String>[] mergedMail = new ArrayList[n];
         for(int i=0;i<n;i++) {
             mergedMail[i] = new ArrayList<>();
         }
-
         for(Map.Entry<String,Integer> it: mapMails.entrySet()){
             String mail = it.getKey();
             int node = ds.findUPar(it.getValue());
