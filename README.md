@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0792-binary-search](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
+| [0907-koko-eating-bananas](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
