@@ -1,16 +1,16 @@
 class Solution {
     private int findDays(int[] arr,int cap){
-        int days=0 ,load=0;
+        int days=1 ,load=0;
         for(int it:arr){
-            int totalLoad = load+it;
-            if(totalLoad>cap){
+            if(load+it>cap){
                 days++;
-                load = it;
-            }else{
+                load=it;
+            }
+            else{
                 load+=it;
             }
         }
-        return days+1;
+        return days;
     }
     public int shipWithinDays(int[] weights, int days) {
         int max = Integer.MIN_VALUE;
