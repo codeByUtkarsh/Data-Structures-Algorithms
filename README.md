@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
