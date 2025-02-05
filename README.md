@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
