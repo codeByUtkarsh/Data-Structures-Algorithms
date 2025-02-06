@@ -15,7 +15,6 @@ class Solution {
     }
     public int findUB(int low,int high, int[] nums,int target){
         int ans=-1;
-
         while(low<=high){
              int mid = low+(high-low)/2;
             if(nums[mid]>target){
