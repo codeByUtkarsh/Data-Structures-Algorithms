@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3429-special-array-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 ## Depth-First Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
