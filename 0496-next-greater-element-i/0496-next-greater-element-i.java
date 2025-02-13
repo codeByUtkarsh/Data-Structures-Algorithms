@@ -6,7 +6,7 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
         Stack<Integer> st = new Stack<>();
         for(int i=m-1;i>=0;i--){
-            if(!st.isEmpty() && st.peek()<=nums2[i]){
+            while(!st.isEmpty() && st.peek()<=nums2[i]){
                 st.pop();
             }
             if(st.isEmpty()){
@@ -18,7 +18,11 @@ class Solution {
         }
         for(int i=0;i<n;i++){
             int el = nums1[i];
-            nge[i] = map.get(el);
+            if(map.containsKey(el)){
+                nge[i] = map.get(el);
+            }else{
+                nge[i] = -1;
+            }
         }
         return nge;
     }
