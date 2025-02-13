@@ -17,12 +17,7 @@ class Solution {
             st.push(nums2[i]);
         }
         for(int i=0;i<n;i++){
-            int el = nums1[i];
-            if(map.containsKey(el)){
-                nge[i] = map.get(el);
-            }else{
-                nge[i] = -1;
-            }
+            nge[i] = map.getOrDefault(nums1[i],-1);
         }
         return nge;
     }
