@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
