@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
+| [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
