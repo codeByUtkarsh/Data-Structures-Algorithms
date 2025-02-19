@@ -1,34 +1,34 @@
 class Solution {
-    private int[] findNse(int[] arr,int n){
+
+    public int largestRectangleArea(int[] heights) {
+        int n = heights.length;
+        if(n==1) return heights[0];
         int[] nse = new int[n];
+        int[] pse = new int[n];
         Stack<Integer> st = new Stack<>();
+        //next smaller element array 
         for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && arr[st.peek()]>=arr[i]){
+            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
                 st.pop();
             }
             nse[i] = st.isEmpty()?n:st.peek();
             st.push(i);
         }
-        return nse;
-    }
-    private int[] findPse(int[] arr,int n){
-        int[] pse = new int[n];
-        Stack<Integer> st = new Stack<>();
+
+        //empty the stack before use in pse
+        while(st.size()>0){
+            st.pop();
+        }
+
+        //previous smaller element 
         for(int i=0;i<n;i++){
-            while(!st.isEmpty() && arr[st.peek()]>=arr[i]){
+            while(!st.isEmpty() && heights[st.peek()]>=heights[i]){
                 st.pop();
             }
             pse[i] = st.isEmpty()?-1:st.peek();
             st.push(i);
         }
-        return pse;
-    }
 
-    public int largestRectangleArea(int[] heights) {
-        int n = heights.length;
-        if(n==1) return heights[0];
-        int[] nse = findNse(heights,n);
-        int[] pse = findPse(heights,n);
         int maxArea = -1;
         for(int i=0;i<n;i++){
             int prev = pse[i]+1;
