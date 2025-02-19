@@ -1,5 +1,5 @@
 class Solution {
-    public int[] findNse(int[] arr,int n){
+    private int[] findNse(int[] arr,int n){
         int[] nse = new int[n];
         Stack<Integer> st = new Stack<>();
         for(int i=n-1;i>=0;i--){
@@ -11,7 +11,7 @@ class Solution {
         }
         return nse;
     }
-    public int[] findPse(int[] arr,int n){
+    private int[] findPse(int[] arr,int n){
         int[] pse = new int[n];
         Stack<Integer> st = new Stack<>();
         for(int i=0;i<n;i++){
