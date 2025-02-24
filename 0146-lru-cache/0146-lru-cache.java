@@ -46,18 +46,15 @@ class LRUCache {
     }
 
     public void insertAfterHead(Node node){
-        Node currNode = head.next;
-        head.next =  node;
+        node.next = head.next;
+        node.next.prev = node;
+        head.next = node;
         node.prev = head;
-        node.next = currNode;
-        currNode.prev = node;
     }
 
     public void remove(Node node){
-        Node prevNode = node.prev;
-        Node afterNode = node.next;
-        prevNode.next = afterNode;
-        afterNode.prev = prevNode;
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
     }
 }
 
