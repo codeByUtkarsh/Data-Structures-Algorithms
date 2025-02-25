@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -298,8 +300,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
