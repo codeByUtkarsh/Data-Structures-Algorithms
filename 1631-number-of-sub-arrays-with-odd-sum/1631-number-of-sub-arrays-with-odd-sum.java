@@ -1,7 +1,7 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
         int cnt =0,even = 1,odd=0, prefixSum=0;
-        int mod = 1_000_000_007;
+        int mod = 1000000007;
         for(int a:arr){
             prefixSum+=a;
             if(prefixSum%2==0){
