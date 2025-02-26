@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -316,5 +318,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
