@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1205-defanging-an-ip-address) |
+| [1894-merge-strings-alternately](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## Graph
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
+| [1894-merge-strings-alternately](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1894-merge-strings-alternately) |
 ## Rolling Hash
 |  |
 | ------- |
