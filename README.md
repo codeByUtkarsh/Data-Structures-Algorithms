@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1205-defanging-an-ip-address](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1205-defanging-an-ip-address) |
 ## Graph
 |  |
 | ------- |
