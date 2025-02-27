@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0792-binary-search) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
