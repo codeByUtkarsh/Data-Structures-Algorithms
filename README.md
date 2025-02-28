@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0816-design-hashset) |
 | [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
+| [0816-design-hashset](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0816-design-hashset) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0214-shortest-palindrome) |
+| [0816-design-hashset](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0816-design-hashset) |
 ## Topological Sort
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0460-lfu-cache) |
+| [0816-design-hashset](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0460-lfu-cache) |
+| [0816-design-hashset](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0816-design-hashset) |
 ## Doubly-Linked List
 |  |
 | ------- |
