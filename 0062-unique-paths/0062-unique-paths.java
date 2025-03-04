@@ -4,9 +4,9 @@ class Solution {
         for(int i=0;i<m;i++){
             int[] temp = new int[n];
             for(int j=0;j<n;j++){
-                int left=0;
                 if(i==0 && j==0) temp[0]=1;
                 else{
+                    int left=0;
                     if(j>0) left = temp[j-1];
                     temp[j] = dp[j]+left;
                 }
