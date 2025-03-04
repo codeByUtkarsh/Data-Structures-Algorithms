@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0085-maximal-rectangle) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0198-house-robber) |
