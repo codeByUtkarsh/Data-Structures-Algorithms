@@ -8,12 +8,10 @@ class Solution {
             for(int j=0;j<n;j++){
                 if(i==0 && j==0) temp[j]=grid[i][j];
                 else{
-                    int up=grid[i][j];
-                    int left = grid[i][j];
-                    if(i>0) up += dp[j];
-                    else up += 1e9;
-                    if(j>0) left += temp[j-1];
-                    else left+=1e9;
+                    int up= Integer.MAX_VALUE;
+                    int left = Integer.MAX_VALUE;
+                    if(i>0) up = grid[i][j] + dp[j];
+                    if(j>0) left = grid[i][j] + temp[j-1];
                     temp[j] = Math.min(up,left);
                 }
             }
