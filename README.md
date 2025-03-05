@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0162-find-peak-element) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
