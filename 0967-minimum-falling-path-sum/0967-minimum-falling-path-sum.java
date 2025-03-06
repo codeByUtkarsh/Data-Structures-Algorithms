@@ -8,12 +8,10 @@ class Solution {
         }
         for(int i=1;i<n;i++){
             for(int j=0;j<m;j++){
-                int ld = (int) 1e9;
-                int rd = (int) 1e9;
-                int u = matrix[i][j] + dp[i-1][j];
-                if(j-1>=0) ld = matrix[i][j] + dp[i-1][j-1];
-                if(j+1<m) rd = matrix[i][j] + dp[i-1][j+1];
-                dp[i][j] = Math.min(u,Math.min(ld,rd));
+                int u =  dp[i-1][j];
+                int ld =  (j-1>=0)?dp[i-1][j-1]:Integer.MAX_VALUE;
+                int rd = (j+1<m)?dp[i-1][j+1]:Integer.MAX_VALUE;
+                dp[i][j] = matrix[i][j]+ Math.min(u,Math.min(ld,rd));
             }
         }
         int minPath = dp[n-1][0];
