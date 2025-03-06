@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0854-making-a-large-island](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2047-find-a-peak-element-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
