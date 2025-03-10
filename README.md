@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
