@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0402-remove-k-digits) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0367-valid-perfect-square) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
