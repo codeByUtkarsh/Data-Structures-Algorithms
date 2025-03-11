@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
