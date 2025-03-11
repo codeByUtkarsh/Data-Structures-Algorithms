@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
