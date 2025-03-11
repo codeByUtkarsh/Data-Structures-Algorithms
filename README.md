@@ -372,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
