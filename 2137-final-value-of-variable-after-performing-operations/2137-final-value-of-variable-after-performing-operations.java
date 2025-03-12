@@ -1,15 +1,13 @@
 class Solution {
-    public int finalValueAfterOperations(String[] o) {
-        HashMap<String,Integer> map = new HashMap<>();
-        map.put("--X",-1);
-        map.put("X--",-1);
-        map.put("X++",1);
-        map.put("++X",1);
-        int sum =0;
-        for(String st:o){
-            sum+= map.get(st);
+    public int finalValueAfterOperations(String[] operations) {
+        int counter =0;
+        for(String st:operations){
+            if(st.contains("+")){
+                counter+=1;
+            }else{
+                counter-=1;
+            }
         }
-        return sum;
-        
+        return counter;
     }
 }
