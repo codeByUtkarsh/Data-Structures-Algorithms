@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2227-sum-of-subarray-ranges](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3429-special-array-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Graph
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
