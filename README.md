@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1580-shuffle-the-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1646-kth-missing-positive-number) |
