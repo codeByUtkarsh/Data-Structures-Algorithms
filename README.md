@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 ## Depth-First Search
