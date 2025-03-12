@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2227-sum-of-subarray-ranges](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3429-special-array-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
 ## Depth-First Search
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2047-find-a-peak-element-ii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0182-duplicate-emails) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
