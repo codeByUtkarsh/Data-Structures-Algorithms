@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3429-special-array-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3429-special-array-i) |
+| [3778-transform-array-by-parity](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3778-transform-array-by-parity) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
+| [3778-transform-array-by-parity](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3778-transform-array-by-parity) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -397,4 +399,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3778-transform-array-by-parity](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
