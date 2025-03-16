@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3194-find-words-containing-character) |
+| [3447-clear-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3447-clear-digits) |
 ## Graph
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
+| [3447-clear-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3447-clear-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
