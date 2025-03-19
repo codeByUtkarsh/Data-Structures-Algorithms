@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0801-is-graph-bipartite) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
