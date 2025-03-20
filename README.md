@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3778-transform-array-by-parity) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
