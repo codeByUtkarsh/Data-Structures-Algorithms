@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1205-defanging-an-ip-address) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3447-clear-digits) |
