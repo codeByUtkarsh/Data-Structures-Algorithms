@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0402-remove-k-digits) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0213-house-robber-ii) |
