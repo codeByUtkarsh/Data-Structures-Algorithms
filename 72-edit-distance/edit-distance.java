@@ -1,29 +1,21 @@
 class Solution {
-    public int minDistance(String word1, String word2) {
-        int n = word1.length();
-        int m = word2.length();
-
-        int dp[][] = new int[n+1][m+1];
-
-        //initialization
-        for(int i=0;i<n+1;i++){
-            for(int j=0;j<m+1;j++){
-                if(i==0) dp[i][j]=j;
-                if(j==0) dp[i][j]=i;
-            }
+    public int minNoOp(int i,int j, String s,String t,int[][] dp){
+        if(i<0) return j+1;
+        if(j<0) return i+1;
+        if(dp[i][j]!=-1) return dp[i][j];
+        if(s.charAt(i)==t.charAt(j)) return dp[i][j]= minNoOp(i-1,j-1,s,t,dp);
+        //insert
+        int in = 1+minNoOp(i,j-1,s,t,dp);
+        int dl = 1+minNoOp(i-1,j,s,t,dp);
+        int re = 1+minNoOp(i-1,j-1,s,t,dp);
+        return  dp[i][j] = Math.min(in,Math.min(dl,re));
+    }
+    public int minDistance(String str1, String str2) {
+        int n = str1.length(),m = str2.length();
+        int[][] dp = new int[n][m];
+        for(int[] row:dp){
+            Arrays.fill(row,-1);
         }
-
-        //Logic
-
-        for(int i=1;i<n+1;i++){
-            for(int j=1;j<m+1;j++){
-                if(word1.charAt(i-1)==word2.charAt(j-1)){
-                    dp[i][j]= dp[i-1][j-1];
-                }else{
-                    dp[i][j] =(Math.min(dp[i][j-1],Math.min(dp[i-1][j],dp[i-1][j-1])))+1;
-                }
-            }
-        }
-        return dp[n][m];
+        return minNoOp(n-1,m-1,str1,str2,dp);
     }
 }
