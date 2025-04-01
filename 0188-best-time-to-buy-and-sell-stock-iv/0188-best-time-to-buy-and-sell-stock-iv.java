@@ -1,27 +1,19 @@
 class Solution {
-    public int findMP(int day,int buy,int cap,int[] prices,int[][][] dp){
-        if(cap==0) return 0;
-        if(day==prices.length) return 0 ;
-        if (dp[day][buy][cap] != -1)
-            return dp[day][buy][cap];
-        if(buy==1){
-            int take = -prices[day] + findMP(day+1,0,cap,prices,dp);
-            int notTake = findMP(day+1,1,cap,prices,dp);
-            return dp[day][buy][cap]= Math.max(take,notTake);
+    public int findMP(int ind,int trans,int k,int n,int[] prices,int[][] dp){
+        if(ind==n || trans==2*k) return 0;
+        if(dp[ind][trans]!=-1) return dp[ind][trans];
+        if(trans%2==0){
+            return dp[ind][trans] = Math.max(-prices[ind]+findMP(ind+1,trans+1,k,n,prices,dp),findMP(ind+1,trans,k,n,prices,dp));
         }else{
-            int sell = prices[day] + findMP(day+1,1,cap-1,prices,dp);
-            int notSell = findMP(day+1,0,cap,prices,dp);
-            return dp[day][buy][cap] = Math.max(sell,notSell);
+            return dp[ind][trans] = Math.max(prices[ind]+findMP(ind+1,trans+1,k,n,prices,dp),findMP(ind+1,trans,k,n,prices,dp));
         }
     }
-    public int maxProfit(int k, int[] prices) {   
+    public int maxProfit(int k, int[] prices) {
         int n = prices.length;
-        int[][][] dp = new int[n][2][k+1];
-         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < 2; j++) {
-                Arrays.fill(dp[i][j], -1);
-            }
+        int[][] dp = new int[n][2*k+1];
+        for(int[] row:dp){
+            Arrays.fill(row,-1);
         }
-        return findMP(0,1,k,prices,dp);
+        return findMP(0,0,k,n,prices,dp);
     }
 }
