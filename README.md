@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0816-design-hashset](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0816-design-hashset) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1129-longest-string-chain](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1129-longest-string-chain) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1129-longest-string-chain](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
+| [1129-longest-string-chain](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 ## Rolling Hash
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
+| [1129-longest-string-chain](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -297,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0721-accounts-merge) |
+| [1129-longest-string-chain](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1129-longest-string-chain) |
 | [3778-transform-array-by-parity](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/3778-transform-array-by-parity) |
 ## Biconnected Component
 |  |
