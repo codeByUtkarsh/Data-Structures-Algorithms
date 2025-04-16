@@ -7,7 +7,7 @@ class Solution {
         for(int i=1;i<n;i++){
             for(int j=1;j<m;j++){
                 if(matrix[i][j]==0) dp[i][j] = 0;
-                else dp[i][j] = 1+Math.min(dp[i-1][j],Math.min(dp[i-1][j-1],dp[i][j-1]));
+                else dp[i][j] = Math.min(dp[i-1][j],Math.min(dp[i-1][j-1],dp[i][j-1]))+1;
             }
         }
         int cnt =0;
