@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1580-shuffle-the-array](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
