@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
+| [1070-convert-to-base-2](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1070-convert-to-base-2) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/codeByUtkarsh/Data-Structures-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
